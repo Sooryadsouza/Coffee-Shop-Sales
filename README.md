@@ -1,1 +1,1 @@
-# Coffee-Shop-Sales
+The goal of this project is to examine coffee shop sales data in order to find patterns and insights that can enhance company performance. Finding the best-selling items, peak sales times, consumer preferences, and other factors are the main goals of the investigation.
